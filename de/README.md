@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-Dieses Repository beinhaltet die **Rollout Dokumentation** von fiskaltrust für den deutschen Markt. Es unterstüzt KassenHersteller und KassenHändler beim Rolloutprozess der fiskaltrust.Middleware und anderer fiskaltrust Produkte. 
+Dieses Repository beinhaltet die **Rollout Dokumentation** von fiskaltrust für den deutschen Markt. Es unterstützt KassenHersteller und KassenHändler beim Rolloutprozess der fiskaltrust.Middleware und anderer fiskaltrust Produkte. 
 
 
 ## Getting started
@@ -26,7 +26,7 @@ Die fiskaltrust.Middleware läuft als eigenständiger Service auf der Kasse des 
 
 Des Weiteren bietet fiskaltrust Add-On Produkte als auch Einzelprodukte für KassenBetreiber an. Add-On Produkte erfordern den Einsatz der fiskaltrust.Middleware und bauen auf diese auf. Einzelprodukte sind unabhängig vom Einsatz der fiskaltrust.Middleware. Die fiskaltrust Produkte  werden ausschließlich über unsere KassenHändler-Partner an KassenBetreiber vertrieben. Hierbei handelt es sich um Archivierungsprodukte, automatisierte Meldungen an das Finanzamt, Technische Sicherheitseinrichtungen (TSE) diverser Hersteller als auch um Sorglospakete mit und ohne TSE-as-a-Service. Im Rahmen des Rollouts muss der KassenHändler die zuvor von fiskaltrust erworbenen Produkte an seine KassenBetreiber übertragen und aktivieren. 
 
-Der Rolloutprozess besteht also aus der Konfiguration und Auslieferung der fiskaltrust.Middleware auf die Kasse(n) des KassenBetreiber und aus der Übertragung und Aktivierung der Add-On und Einzelprodukte für die KassenBetreiber. In diesem Dokument werden wir beschreiben, welche Vorbereitungsmaßnahmen vor dem tatsächlichen Rollout vorzunehmen sind und wie dann, darauf aufbauend, im Detail der Rollout vorgenommen wird. Dabei wird das fiskaltrust.Portal als Rolloutmanagement-Tool eine wichtige Rolle spielen.
+Der Rolloutprozess besteht also aus der Konfiguration und Auslieferung der fiskaltrust.Middleware auf die Kasse(n) des KassenBetreibers und aus der Übertragung und Aktivierung der Add-Ons und Einzelprodukte für die KassenBetreiber. In diesem Dokument werden wir beschreiben, welche Vorbereitungsmaßnahmen vor dem tatsächlichen Rollout vorzunehmen sind und wie dann, darauf aufbauend, im Detail der Rollout vorgenommen wird. Dabei wird das fiskaltrust.Portal als Rolloutmanagement-Tool eine wichtige Rolle spielen.
 
 ### Die unterschiedlichen Rollen der fiskaltrust Partner
 
